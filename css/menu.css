@@ -1,0 +1,61 @@
+.toggle-btn{
+    position: fixed;
+    padding-top: 10px;
+    padding-bottom: 25px;
+    padding-right: 10px;
+    padding-left: 10px;
+    top: 25px;
+    right: 50px;
+    width: 60px;
+    height: 12px;
+    z-index: 9;
+    cursor: pointer;
+    background: #101010
+}
+span.one{
+    position: absolute;
+    width: 40px;
+    height: 2px;
+    background: #fff;
+}
+span.two{
+    position: absolute;
+    width: 40px;
+    height: 2px;
+    background: #fff;
+    margin-top: 12px; 
+}
+.menu{
+    z-index: 8;
+    position: fixed;
+    background: #101010;
+    height: 100vh;
+    width: 100%;
+    top: -100%;
+}
+.data{
+    padding: 9em 0 0 2em;
+    text-align: left;
+}
+.data ul{
+    list-style: none;
+}
+.data li:first-child{
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+}
+.data li:not(:first-child){
+    color: #fff;
+    font-size: 42px;
+}
+.data a{
+    text-decoration: none;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    transition: .5s
+}
+.data a:hover{
+    text-decoration: none;
+    color: grey;
+}
