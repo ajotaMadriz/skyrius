@@ -1,8 +1,5 @@
 # skyrius
 
-Fui elegido para realizar esta página debido a mis conocimientos en el área FrontEnd, maquetamiento de páginas y mi experiencia en el UX. 
-Este proyecto esta conformado por un excelente equipo de trabajo profesionales y expertos en el campo.
-
 El proyecto Skyrius consiste en un Compilador Web de Tezos para Contratos Inteligentes. Y la propuesta de Skyrius nació como “una 
 aplicación web que permite la creación, edición, depuración y despliegue de contratos inteligentes en MICHELSON”.
 
